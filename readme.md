@@ -5,10 +5,10 @@ Web Developer <br>
 
 ![Cold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMaybe&show_icons=true&theme=tokyonight)
 
-<br>
+<br><hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdMaybe)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdMaybe)
 
-<br>
+<br> <hr>
 
-[![Cold's github activity graph](https://activity-graph.herokuapp.com/graph?username=ColdMaybe&theme=xcode)]
+[![Cold's github activity graph](https://activity-graph.herokuapp.com/graph?username=ColdMaybe&theme=xcode)
