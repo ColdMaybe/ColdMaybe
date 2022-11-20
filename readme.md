@@ -7,4 +7,8 @@ Web Developer <br>
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdMaybe)]
+
+<br>
+
 [![Cold's github activity graph](https://activity-graph.herokuapp.com/graph?username=ColdMaybe&theme=xcode)]
