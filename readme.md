@@ -3,7 +3,7 @@ Web Developer <br>
 
 <hr>
 
-![Cold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMaybe&show_icons=true&theme=synthwave)
+![Cold's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMaybe&show_icons=true&theme=tokyonight)
 
 <br>
 
